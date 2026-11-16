@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
