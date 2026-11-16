@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
