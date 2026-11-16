@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0560-subarray-sum-equals-k) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/lrsbhai1234-byte/leet2012/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lrsbhai1234-byte/leet2012/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0150-evaluate-reverse-polish-notation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
