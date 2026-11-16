@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0560-subarray-sum-equals-k) |
 | [1572-matrix-diagonal-sum](https://github.com/lrsbhai1234-byte/leet2012/tree/master/1572-matrix-diagonal-sum) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lrsbhai1234-byte/leet2012/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lrsbhai1234-byte/leet2012/tree/master/0054-spiral-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lrsbhai1234-byte/leet2012/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
